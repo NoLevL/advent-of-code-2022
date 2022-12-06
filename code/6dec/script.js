@@ -18,6 +18,5 @@ fs.readFile(
         break;
       }
     }
-    console.log(i);
   }
 );
